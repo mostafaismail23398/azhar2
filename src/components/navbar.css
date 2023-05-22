@@ -1,0 +1,26 @@
+
+nav{
+    background-color: #fff;
+    
+    
+    
+}
+.navbar-brand{
+color: rgba(18,62,13,255);
+text-decoration: none;
+
+
+  
+}
+
+
+
+a:hover{
+   
+    color: rgba(244,181,70,255);
+}
+img{
+   width: 190px!important;
+   margin-right: 2rem;
+   
+}
